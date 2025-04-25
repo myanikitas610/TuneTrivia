@@ -3,5 +3,5 @@ TuneTrivia is a mobile app created with Swift that will play a segment of a song
 Hope you have fun playing!
 
 Creators: 
-Mya Nikitas - Back-end and questionView
+Mya Nikitas - Back-end and questionView &
 Rasha Abdulkader - Front-end, contentView, HowToPlayView, and resultView
